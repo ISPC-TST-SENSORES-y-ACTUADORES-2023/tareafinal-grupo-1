@@ -1,8 +1,6 @@
-![fin](/assets/BannerElect.png)
-
+![Logo](/assets/Curso%20ISPC.png)
 
 # Hardware
 
-**Hoja de datos de los sensores usados - Datasheet**
+** Circuito del proyecto realizado **
 
-![Logo](/assets/Curso%20ISPC.png)
