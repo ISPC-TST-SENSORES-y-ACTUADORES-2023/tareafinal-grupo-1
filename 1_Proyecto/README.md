@@ -1,5 +1,5 @@
 ![Logo](/assets/Curso%20ISPC.png)
 
-# Circuito
+# Proyecto Grupoi #1
 
-**Circuito del proyecto realizado**
+**Descripcion del proyecto del Smart House con ESP32**
