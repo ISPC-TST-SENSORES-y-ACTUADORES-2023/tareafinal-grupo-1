@@ -16,5 +16,13 @@
             "command": "extension.execute",
             "priority": 4
         }
+    ],
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "SmartHouse",
+            "host": "localhost",
+            "port": 1883,
+            "clientId": "vsmqtt_client_bfd0"
+        }
     ]
 }
