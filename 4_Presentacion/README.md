@@ -1,4 +1,5 @@
-![Logo](/assets/BannerElect.png)
+![Logo](/assets/Curso%20ISPC.png)
+
 
 # Presentacion del trabajo final de la materia Sensores y Actuadores
 
