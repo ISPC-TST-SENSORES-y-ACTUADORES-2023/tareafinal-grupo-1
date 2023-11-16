@@ -1,9 +1,5 @@
 ![Logo](/assets/BannerElect.png)
 
-# Presentación
+# Presentacion del trabajo final de la materia Sensores y Actuadores
 
-**Se deberá realizar una presentación en PowerPoint donde muestre las etapas del proyecto realizado**
-
-
-
-![Logo](/assets/Curso%20ISPC.png)
+**Se incluye la presentacion en Powerpoint (PPT-Incluye video demostrativo del funcionamiento) y tambien en PDF**
