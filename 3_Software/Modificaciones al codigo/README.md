@@ -1,4 +1,4 @@
-![Logo](/assets/BannerElect.png)
+![Logo](/assets/Curso%20ISPC.png)
 
 
 # Modificaciones realizadas al codigo original
