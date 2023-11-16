@@ -1,4 +1,4 @@
-// Se elimina estas líneas relacionadas con los pines que ya no se usarán
+// Se eliminan estas líneas relacionadas con los pines que ya no se usarán
 static uint8_t RelayPin5 = XX;  // DXX
 static uint8_t RelayPin6 = XX;  // DXX
 static uint8_t RelayPin7 = XX;  // DXX
